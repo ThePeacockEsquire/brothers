@@ -1,0 +1,25 @@
+.select-house{
+  text-align: center;
+  text-decoration-style: wavy;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 65px;
+  padding: 20px;
+  color: white;
+}
+
+
+.App-title {
+  font-size: 1.5em;
+  margin-top: 5px;
+}
+
+.App-intro {
+  font-size: medium;
+}
